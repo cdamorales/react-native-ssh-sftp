@@ -21,7 +21,7 @@ yarn add react-native-ssh-sftp --save
 4. Luego dentro de Xcode, en el apartado de Pods, vamos dentro de la carpeta Pods y ubicamos el pod NMSSH/Frameworks, eliminamos el grupo y creamos un nuevo grupo llamado de la misma forma "Frameworks"
 5. Damos click derecho sobre ella y se elige la opción de añdir archivos a "Pods" y añadimos los archivos mencionados anteriormente
 
-![1693240780995](image/README/1693240780995.png)
+![1693241716170](image/README/1693241716170.png)
 
 ##### Usage
 
